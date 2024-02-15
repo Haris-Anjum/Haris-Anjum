@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Haris-Anjum&theme=dracula" alt="haris-anjum" /></a> </p>
 
-- 🔭 I’m currently working on **an Holographic Application**
+- 🔭 I’m currently working on **a Personalised Holographic Replication**
 
 - 🌱 I’m currently learning **NLP, CV, IOT**
 
